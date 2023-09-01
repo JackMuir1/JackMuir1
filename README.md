@@ -1,4 +1,4 @@
-![alt text](introGIF.gif)
+<img src="introGIF.gif" width="800" height="480" />
 
 - 👋 Hi, I’m @JackMuir1
 - 👀 I’m interested in interactive media, video game development, and themed experience software
